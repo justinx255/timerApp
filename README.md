@@ -95,3 +95,11 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+Features
+## Features  
+- **Add, Pause, and Reset Individual Timers** – Easily manage multiple timers with individual controls.  
+- **Categories** – Organize timers into different categories for better usability.  
+- **Theming** – Supports both Dark and Light modes for a better user experience.  
+- **Global State Management** – All data is stored and managed globally for efficient state handling.  
+
